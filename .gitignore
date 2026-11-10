@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Environment Variables & Secrets
+.env
+*.env.local
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local databases & Vector store caches
+database/*.db
+vector_store/*.index
+vector_store/*.faiss
+vector_store/*.pkl
+
+# Streamlit
+.streamlit/
+

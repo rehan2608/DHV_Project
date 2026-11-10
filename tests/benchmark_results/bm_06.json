@@ -1,0 +1,144 @@
+{
+  "response_id": "resp_1b1737a2",
+  "query_id": "bm_06",
+  "response_status": "PARTIAL_SUCCESS",
+  "original_question": "Which institution improved the most between two years where its category methodology changed?",
+  "answer": "## Analysis of Rank Movement (2017-2025)\n\nBased on the analytical evidence for the Management category between 2017 and 2025, five institutions were identified as having achieved positive rank movement. However, the provided evidence does not specify the exact starting and ending rank values for these individual entities, making it impossible to determine which single institution improved the most by magnitude.\n\n### Key Findings\n* **Identified Gainers:** The following five institutions showed rank improvement between 2017 and 2025:\n    * Indian Institute of Foreign Trade\n    * Management Development Institute\n    * Indian Institute of Management Ranchi\n    * IMI Kolkata\n    * Indian Institute of Management, Mumbai\n* **Sample Size:** Out of 150 records considered, 40 paired institutions were successfully tracked across both years.\n\n### Data Notes & Limitations\n* **Comparability Warning:** Comparability requires caution because the cohort depth expanded across 2017 and 2025, with published depths of 50 and 100 respectively. For strict longitudinal consistency, comparisons should be restricted to the Top 50 institutions.\n* **Missing Values:** Specific starting and ending rank integers were not provided in the analytical output, preventing the calculation of the exact rank difference for each institution.",
+  "key_findings": [
+    "**Identified Gainers:** The following five institutions showed rank improvement between 2017 and 2025:",
+    "Indian Institute of Foreign Trade",
+    "Management Development Institute",
+    "Indian Institute of Management Ranchi",
+    "IMI Kolkata"
+  ],
+  "numerical_claims": [
+    {
+      "claim_id": "c_b621cd",
+      "claim_text": "The following five institutions showed rank improvement between 2017 and 2025: Indian Institute of Foreign Trade, Management Development Institute, Indian Institute of Management Ranchi, IMI Kolkata, and Indian Institute of Management, Mumbai",
+      "statement": "The following five institutions showed rank improvement between 2017 and 2025: Indian Institute of Foreign Trade, Management Development Institute, Indian Institute of Management Ranchi, IMI Kolkata, and Indian Institute of Management, Mumbai",
+      "claim_type": "RANK_CHANGE",
+      "metric": "rank_improvement",
+      "institution_uid": "U-102",
+      "institution_name": "Indian Institute of Foreign Trade",
+      "category": "Management",
+      "year": null,
+      "claimed_value": null,
+      "value": null,
+      "actual_value": 13,
+      "unit": null,
+      "state": null,
+      "statistic_type": "change",
+      "comparison_period": null,
+      "comparison_entities": null,
+      "source_operation_id": null,
+      "operation_id": null,
+      "source_reference": null,
+      "verification_status": "VERIFIED",
+      "verification_notes": "Rank improvement verified for 'Indian Institute of Foreign Trade' (improved by 13 ranks: 30 -> 17).",
+      "audit_discrepancy": null,
+      "evidence_reference": "op_comp_shift.gainers[0].rank_improvement"
+    },
+    {
+      "claim_id": "c_07bf6d",
+      "claim_text": "Out of 150 records considered, 40 paired institutions were successfully tracked across both years.",
+      "statement": "Out of 150 records considered, 40 paired institutions were successfully tracked across both years.",
+      "claim_type": "COUNT",
+      "metric": null,
+      "institution_uid": null,
+      "institution_name": null,
+      "category": "Management",
+      "year": null,
+      "claimed_value": 40,
+      "value": 40,
+      "actual_value": 40,
+      "unit": null,
+      "state": null,
+      "statistic_type": "count",
+      "comparison_period": null,
+      "comparison_entities": null,
+      "source_operation_id": null,
+      "operation_id": null,
+      "source_reference": null,
+      "verification_status": "VERIFIED",
+      "verification_notes": "Count of 40 exactly matches executed dataset cohort size.",
+      "audit_discrepancy": null,
+      "evidence_reference": "op_comp_shift.metadata.valid_observations"
+    },
+    {
+      "claim_id": "claim_815e7a",
+      "claim_text": "comparisons should be restricted to the Top 50 institutions.",
+      "statement": "comparisons should be restricted to the Top 50 institutions.",
+      "claim_type": "COUNT",
+      "metric": "count",
+      "institution_uid": null,
+      "institution_name": null,
+      "category": null,
+      "year": null,
+      "claimed_value": 50,
+      "value": 50,
+      "actual_value": 50,
+      "unit": "entities",
+      "state": null,
+      "statistic_type": null,
+      "comparison_period": null,
+      "comparison_entities": null,
+      "source_operation_id": null,
+      "operation_id": null,
+      "source_reference": null,
+      "verification_status": "VERIFIED",
+      "verification_notes": "Count of 50 exactly matches executed dataset cohort size.",
+      "audit_discrepancy": "Numerical statement in prose was omitted from structured claims list.",
+      "evidence_reference": "op_comp_shift.metadata.warnings[0].cutoff"
+    }
+  ],
+  "verification_summary": {
+    "total_claims": 3,
+    "verified_claims": 2,
+    "unverified_claims": 1,
+    "conflicting_claims": 0,
+    "structured_claims_count": 2,
+    "text_audited_claims_count": 1,
+    "omitted_from_structured_count": 1,
+    "extraction_coverage": 0.0,
+    "verification_precision": 1.0,
+    "verification_recall": 0.6667,
+    "all_claims_verified": 0,
+    "regeneration_attempted": 1,
+    "regeneration_count": 1
+  },
+  "citations": [],
+  "warnings": [
+    "Cohort depth expanded across [2017, 2025] (published depths: [50, 100]). For strict longitudinal consistency, restrict comparison to Top 50 institutions."
+  ],
+  "limitations": [
+    "Caution: 1 numerical claim(s) in this answer could not be fully reconciled against analytical results.",
+    "2025: Expanded publication depth to 100 institutions (ties at rank 100 created 101 records).",
+    "2017: Initial Top 50 publication depth."
+  ],
+  "evidence_summary": {
+    "response_type": "ANALYTICAL_ONLY",
+    "has_analytical_evidence": 1,
+    "has_documentation_evidence": 0,
+    "operations": [
+      {
+        "operation_id": "op_comp_shift",
+        "function_name": "get_rank_movement",
+        "status": "SUCCESS"
+      }
+    ],
+    "chunks": [],
+    "warnings": [
+      "Cohort depth expanded across [2017, 2025] (published depths: [50, 100]). For strict longitudinal consistency, restrict comparison to Top 50 institutions."
+    ]
+  },
+  "generation_metadata": {
+    "model_name": "gemma4:31b-cloud",
+    "generation_duration_seconds": 5.183,
+    "verification_duration_seconds": 0.005,
+    "total_duration_seconds": 5.196,
+    "prompt_tokens_estimated": 452,
+    "response_type": "ANALYTICAL_ONLY",
+    "operations_count": 1,
+    "chunks_count": 0
+  }
+}

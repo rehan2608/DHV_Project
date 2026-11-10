@@ -1,0 +1,93 @@
+[
+  {
+    "document_id": "nirf_methodology_reference",
+    "title": "NIRF Official Methodology & Parameter Reference",
+    "document_type": "methodology",
+    "file_path": "knowledge_base/nirf/nirf_methodology_reference.md",
+    "format": "md",
+    "source_reference": "Ministry of Education (MoE), Government of India",
+    "description": "Comprehensive reference covering NIRF ranking parameters (TLR, RPC, GO, OI, PR), sub-parameters, formulas, weightage matrices across categories, and Research category metrics.",
+    "approved": true
+  },
+  {
+    "document_id": "data_dictionary",
+    "title": "NIRF Dataset Data Dictionary",
+    "document_type": "dictionary",
+    "file_path": "data/NIRF_Final_Cleaned_Dataset/data_dictionary.xlsx",
+    "format": "xlsx",
+    "source_reference": "NIRF Dashboard Project V3 Dataset Specification",
+    "description": "Definitive schema defining 40 columns in the cleaned NIRF dataset, valid ranges, roles, missing value interpretations, and metric relationships.",
+    "approved": true
+  },
+  {
+    "document_id": "comparability_report",
+    "title": "NIRF Cross-Year & Cross-Category Comparability Report",
+    "document_type": "methodology",
+    "file_path": "data/NIRF_Final_Cleaned_Dataset/comparability_report.md",
+    "format": "md",
+    "source_reference": "Senior Statistical Data Scientist & Academic Ranking Auditor",
+    "description": "Qualitative and mathematical analysis of ranking drift, cohort depth expansions, category emergence, and comparability guidelines across 2017–2025.",
+    "approved": true
+  },
+  {
+    "document_id": "comparability_rules",
+    "title": "NIRF Longitudinal Comparability Cohort Rules",
+    "document_type": "rules",
+    "file_path": "data/NIRF_Final_Cleaned_Dataset/comparability_rules.csv",
+    "format": "csv",
+    "source_reference": "NIRF Cleaned Dataset V3 Comparability Registry",
+    "description": "Tabular registry of 103 active cohorts specifying metric schemas (Standard 5 vs Research Specific vs Rank Only), rank cohorts, and comparability status.",
+    "approved": true
+  },
+  {
+    "document_id": "institution_identity_audit",
+    "title": "NIRF Institution Identity & UID Resolution Audit",
+    "document_type": "audit",
+    "file_path": "data/NIRF_Final_Cleaned_Dataset/institution_identity_audit.md",
+    "format": "md",
+    "source_reference": "Data Engineering & Institutional Audit Team",
+    "description": "Statutory acts, AISHE codes, DCS IDs, and the 23 resolved historical UID mapping issues across Indian higher education institutions.",
+    "approved": true
+  },
+  {
+    "document_id": "final_validation_report",
+    "title": "NIRF Dataset Final Independent Validation Audit",
+    "document_type": "audit",
+    "file_path": "data/NIRF_Final_Cleaned_Dataset/final_validation_report.md",
+    "format": "md",
+    "source_reference": "Independent Data Quality Auditor",
+    "description": "Sixteen-point comprehensive audit certifying dataset integrity, row counts (6,980 rows x 40 columns), primary keys, and data hygiene.",
+    "approved": true
+  },
+  {
+    "document_id": "geography_audit",
+    "title": "NIRF Geographic Harmonization & Location Audit",
+    "document_type": "audit",
+    "file_path": "data/NIRF_Final_Cleaned_Dataset/geography_audit.md",
+    "format": "md",
+    "source_reference": "Geographic Data Cleaning Audit",
+    "description": "Audit of 36 Indian States and Union Territories, city spellings, municipal boundaries, and campus location imputation standards.",
+    "approved": true
+  },
+  {
+    "document_id": "documentation_correction_log",
+    "title": "NIRF Documentation Discrepancy & Correction Log",
+    "document_type": "audit",
+    "file_path": "data/NIRF_Final_Cleaned_Dataset/documentation_correction_log.md",
+    "format": "md",
+    "source_reference": "Documentation Audit Team",
+    "description": "Log of discrepancies identified between published NIRF summary narratives and underlying dataset tables, with audited resolutions.",
+    "approved": true
+  },
+  {
+    "document_id": "cleaning_log",
+    "title": "NIRF Data Cleaning Pipeline & Transformation Log",
+    "document_type": "audit",
+    "file_path": "data/NIRF_Final_Cleaned_Dataset/cleaning_log.md",
+    "format": "md",
+    "source_reference": "Data Pipeline Engineering Team",
+    "description": "Step-by-step transformation and imputation record documenting the exact cleaning steps applied from raw data to V3 master dataset.",
+    "approved": true
+  }
+]
+

@@ -1,0 +1,650 @@
+[
+  {
+    "benchmark": "Intent extraction",
+    "question": "Which engineering colleges in Karnataka have improved their rankings the most since 2020?",
+    "latency_seconds": 2.81,
+    "query_type": "rank_movement",
+    "function_name": "get_rank_movement",
+    "intent_correct": true,
+    "function_correct": true,
+    "arguments_correct": true,
+    "schema_valid": true,
+    "validator_passed": true,
+    "overall_status": "PASS",
+    "plan": {
+      "query_id": "q_rank_improvement_karnataka_eng_2020",
+      "original_question": "Which engineering colleges in Karnataka have improved their rankings the most since 2020?",
+      "query_type": "rank_movement",
+      "analytical_intent": "Identify engineering institutions in Karnataka with the highest positive rank movement between 2020 and 2025.",
+      "confidence_score": 1.0,
+      "operations": [
+        {
+          "operation_id": "op_1",
+          "function_name": "get_rank_movement",
+          "description": "Calculate rank improvement for engineering institutions in Karnataka from 2020 to 2025.",
+          "category": "Engineering",
+          "year": null,
+          "start_year": 2020,
+          "end_year": 2025,
+          "states": [
+            "Karnataka"
+          ],
+          "institution_names": [],
+          "institution_uids": [],
+          "parameters": [],
+          "metric": null,
+          "param_x": null,
+          "param_y": null,
+          "top_n": null,
+          "movement_type": "improvement",
+          "correlation_method": "both",
+          "outlier_method": "iqr",
+          "outlier_threshold": 1.5,
+          "lookback_years": null,
+          "bins_count": 10,
+          "multi_year_trend": false,
+          "custom_bands": null,
+          "applied_defaults": {
+            "end_year": 2025
+          },
+          "depends_on": null
+        }
+      ],
+      "conversation_context": null,
+      "visualization": {
+        "chart_requested": true,
+        "preferred_chart_type": "horizontal_bar",
+        "comparison_requested": true,
+        "explanation_requested": false
+      },
+      "clarification_message": null,
+      "unsupported_reason": null,
+      "semantic_retrieval_needed": false
+    },
+    "validation": {
+      "is_valid": true,
+      "status": "VALID_WITH_WARNINGS",
+      "errors": [],
+      "warnings": [
+        "Cohort depth expanded across [2020, 2025] (published depths: [200, 100]). For strict longitudinal consistency, restrict comparison to Top 100 institutions."
+      ],
+      "comparability_notes": [
+        "2020: Expanded publication cutoff to 200 institutions (2019-2022 only). Ranks 101-200 comparable only within this 4-year window.",
+        "2025: Standard Top 100 publication cutoff."
+      ],
+      "resolved_entities": {
+        "categories": [
+          "Engineering"
+        ],
+        "states": [
+          "Karnataka"
+        ],
+        "institutions": []
+      },
+      "validated_plan": {
+        "query_id": "q_rank_improvement_karnataka_eng_2020",
+        "original_question": "Which engineering colleges in Karnataka have improved their rankings the most since 2020?",
+        "query_type": "rank_movement",
+        "analytical_intent": "Identify engineering institutions in Karnataka with the highest positive rank movement between 2020 and 2025.",
+        "confidence_score": 1.0,
+        "operations": [
+          {
+            "operation_id": "op_1",
+            "function_name": "get_rank_movement",
+            "description": "Calculate rank improvement for engineering institutions in Karnataka from 2020 to 2025.",
+            "category": "Engineering",
+            "year": null,
+            "start_year": 2020,
+            "end_year": 2025,
+            "states": [
+              "Karnataka"
+            ],
+            "institution_names": [],
+            "institution_uids": [],
+            "parameters": [],
+            "metric": null,
+            "param_x": null,
+            "param_y": null,
+            "top_n": null,
+            "movement_type": "improvement",
+            "correlation_method": "both",
+            "outlier_method": "iqr",
+            "outlier_threshold": 1.5,
+            "lookback_years": null,
+            "bins_count": 10,
+            "multi_year_trend": false,
+            "custom_bands": null,
+            "applied_defaults": {
+              "end_year": 2025
+            },
+            "depends_on": null
+          }
+        ],
+        "conversation_context": null,
+        "visualization": {
+          "chart_requested": true,
+          "preferred_chart_type": "horizontal_bar",
+          "comparison_requested": true,
+          "explanation_requested": false
+        },
+        "clarification_message": null,
+        "unsupported_reason": null,
+        "semantic_retrieval_needed": false
+      }
+    }
+  },
+  {
+    "benchmark": "Structured query",
+    "question": "Compare IIT Bombay and IIT Madras in research performance in Engineering in 2025.",
+    "latency_seconds": 3.53,
+    "query_type": "multidimensional_performance",
+    "function_name": "get_multidimensional_performance",
+    "intent_correct": true,
+    "function_correct": true,
+    "arguments_correct": true,
+    "schema_valid": true,
+    "validator_passed": true,
+    "overall_status": "PASS",
+    "plan": {
+      "query_id": "q_2025_iit_research_comp",
+      "original_question": "Compare IIT Bombay and IIT Madras in research performance in Engineering in 2025.",
+      "query_type": "multidimensional_performance",
+      "analytical_intent": "Compare the research-related parameters (specifically RPC and OI) for IIT Bombay and IIT Madras within the Engineering category for the year 2025.",
+      "confidence_score": 1.0,
+      "operations": [
+        {
+          "operation_id": "op_1",
+          "function_name": "get_multidimensional_performance",
+          "description": "Retrieve and compare research performance parameters for IIT Bombay and IIT Madras in Engineering 2025.",
+          "category": "Engineering",
+          "year": 2025,
+          "start_year": null,
+          "end_year": null,
+          "states": [],
+          "institution_names": [
+            "IIT Bombay",
+            "IIT Madras"
+          ],
+          "institution_uids": [],
+          "parameters": [
+            "rpc",
+            "oi"
+          ],
+          "metric": null,
+          "param_x": null,
+          "param_y": null,
+          "top_n": null,
+          "movement_type": "both",
+          "correlation_method": "both",
+          "outlier_method": "iqr",
+          "outlier_threshold": 1.5,
+          "lookback_years": null,
+          "bins_count": 10,
+          "multi_year_trend": false,
+          "custom_bands": null,
+          "applied_defaults": {
+            "research_focus": "rpc, oi"
+          },
+          "depends_on": null
+        }
+      ],
+      "conversation_context": null,
+      "visualization": {
+        "chart_requested": true,
+        "preferred_chart_type": "bar",
+        "comparison_requested": true,
+        "explanation_requested": true
+      },
+      "clarification_message": null,
+      "unsupported_reason": null,
+      "semantic_retrieval_needed": false
+    },
+    "validation": {
+      "is_valid": true,
+      "status": "VALID",
+      "errors": [],
+      "warnings": [],
+      "comparability_notes": [
+        "Standard Top 100 publication cutoff."
+      ],
+      "resolved_entities": {
+        "categories": [
+          "Engineering"
+        ],
+        "states": [],
+        "institutions": [
+          {
+            "institution_uid": "U-306",
+            "institute_name_std": "Indian Institute of Technology Bombay",
+            "state": "Maharashtra"
+          },
+          {
+            "institution_uid": "U-456",
+            "institute_name_std": "Indian Institute of Technology Madras",
+            "state": "Tamil Nadu"
+          }
+        ]
+      },
+      "validated_plan": {
+        "query_id": "q_2025_iit_research_comp",
+        "original_question": "Compare IIT Bombay and IIT Madras in research performance in Engineering in 2025.",
+        "query_type": "multidimensional_performance",
+        "analytical_intent": "Compare the research-related parameters (specifically RPC and OI) for IIT Bombay and IIT Madras within the Engineering category for the year 2025.",
+        "confidence_score": 1.0,
+        "operations": [
+          {
+            "operation_id": "op_1",
+            "function_name": "get_multidimensional_performance",
+            "description": "Retrieve and compare research performance parameters for IIT Bombay and IIT Madras in Engineering 2025.",
+            "category": "Engineering",
+            "year": 2025,
+            "start_year": null,
+            "end_year": null,
+            "states": [],
+            "institution_names": [
+              "IIT Bombay",
+              "IIT Madras"
+            ],
+            "institution_uids": [],
+            "parameters": [
+              "rpc",
+              "oi"
+            ],
+            "metric": null,
+            "param_x": null,
+            "param_y": null,
+            "top_n": null,
+            "movement_type": "both",
+            "correlation_method": "both",
+            "outlier_method": "iqr",
+            "outlier_threshold": 1.5,
+            "lookback_years": null,
+            "bins_count": 10,
+            "multi_year_trend": false,
+            "custom_bands": null,
+            "applied_defaults": {
+              "research_focus": "rpc, oi"
+            },
+            "depends_on": null
+          }
+        ],
+        "conversation_context": null,
+        "visualization": {
+          "chart_requested": true,
+          "preferred_chart_type": "bar",
+          "comparison_requested": true,
+          "explanation_requested": true
+        },
+        "clarification_message": null,
+        "unsupported_reason": null,
+        "semantic_retrieval_needed": false
+      }
+    }
+  },
+  {
+    "benchmark": "Complex planning",
+    "question": "Find the top 10 engineering institutions in 2025 with the highest research performance, then examine how research performance relates to teaching performance.",
+    "latency_seconds": 4.07,
+    "query_type": "multi_operation",
+    "operations_count": 2,
+    "intent_correct": true,
+    "function_correct": true,
+    "arguments_correct": true,
+    "schema_valid": true,
+    "validator_passed": true,
+    "overall_status": "PASS",
+    "plan": {
+      "query_id": "q_2025_eng_res_teach_rel",
+      "original_question": "Find the top 10 engineering institutions in 2025 with the highest research performance, then examine how research performance relates to teaching performance.",
+      "query_type": "multi_operation",
+      "analytical_intent": "Identify top 10 Engineering institutions by research performance (RPC) in 2025 and analyze the bivariate relationship between research (RPC) and teaching (TLR) performance.",
+      "confidence_score": 1.0,
+      "operations": [
+        {
+          "operation_id": "op_1",
+          "function_name": "get_category_performance",
+          "description": "Retrieve top 10 Engineering institutions for 2025 based on research performance (RPC).",
+          "category": "Engineering",
+          "year": 2025,
+          "start_year": null,
+          "end_year": null,
+          "states": [],
+          "institution_names": [],
+          "institution_uids": [],
+          "parameters": [
+            "rpc"
+          ],
+          "metric": null,
+          "param_x": null,
+          "param_y": null,
+          "top_n": 10,
+          "movement_type": "both",
+          "correlation_method": "both",
+          "outlier_method": "iqr",
+          "outlier_threshold": 1.5,
+          "lookback_years": null,
+          "bins_count": 10,
+          "multi_year_trend": false,
+          "custom_bands": null,
+          "applied_defaults": {
+            "metric": "rpc"
+          },
+          "depends_on": null
+        },
+        {
+          "operation_id": "op_2",
+          "function_name": "get_parameter_relationship",
+          "description": "Examine the relationship between research performance (RPC) and teaching performance (TLR) for Engineering institutions in 2025.",
+          "category": "Engineering",
+          "year": 2025,
+          "start_year": null,
+          "end_year": null,
+          "states": [],
+          "institution_names": [],
+          "institution_uids": [],
+          "parameters": [],
+          "metric": null,
+          "param_x": "rpc",
+          "param_y": "tlr",
+          "top_n": null,
+          "movement_type": "both",
+          "correlation_method": "both",
+          "outlier_method": "iqr",
+          "outlier_threshold": 1.5,
+          "lookback_years": null,
+          "bins_count": 10,
+          "multi_year_trend": false,
+          "custom_bands": null,
+          "applied_defaults": {},
+          "depends_on": "op_1"
+        }
+      ],
+      "conversation_context": null,
+      "visualization": {
+        "chart_requested": true,
+        "preferred_chart_type": "scatter",
+        "comparison_requested": true,
+        "explanation_requested": true
+      },
+      "clarification_message": null,
+      "unsupported_reason": null,
+      "semantic_retrieval_needed": false
+    },
+    "validation": {
+      "is_valid": true,
+      "status": "VALID",
+      "errors": [],
+      "warnings": [],
+      "comparability_notes": [
+        "Standard Top 100 publication cutoff.",
+        "Standard Top 100 publication cutoff."
+      ],
+      "resolved_entities": {
+        "categories": [
+          "Engineering"
+        ],
+        "states": [],
+        "institutions": []
+      },
+      "validated_plan": {
+        "query_id": "q_2025_eng_res_teach_rel",
+        "original_question": "Find the top 10 engineering institutions in 2025 with the highest research performance, then examine how research performance relates to teaching performance.",
+        "query_type": "multi_operation",
+        "analytical_intent": "Identify top 10 Engineering institutions by research performance (RPC) in 2025 and analyze the bivariate relationship between research (RPC) and teaching (TLR) performance.",
+        "confidence_score": 1.0,
+        "operations": [
+          {
+            "operation_id": "op_1",
+            "function_name": "get_category_performance",
+            "description": "Retrieve top 10 Engineering institutions for 2025 based on research performance (RPC).",
+            "category": "Engineering",
+            "year": 2025,
+            "start_year": null,
+            "end_year": null,
+            "states": [],
+            "institution_names": [],
+            "institution_uids": [],
+            "parameters": [
+              "rpc"
+            ],
+            "metric": null,
+            "param_x": null,
+            "param_y": null,
+            "top_n": 10,
+            "movement_type": "both",
+            "correlation_method": "both",
+            "outlier_method": "iqr",
+            "outlier_threshold": 1.5,
+            "lookback_years": null,
+            "bins_count": 10,
+            "multi_year_trend": false,
+            "custom_bands": null,
+            "applied_defaults": {
+              "metric": "rpc"
+            },
+            "depends_on": null
+          },
+          {
+            "operation_id": "op_2",
+            "function_name": "get_parameter_relationship",
+            "description": "Examine the relationship between research performance (RPC) and teaching performance (TLR) for Engineering institutions in 2025.",
+            "category": "Engineering",
+            "year": 2025,
+            "start_year": null,
+            "end_year": null,
+            "states": [],
+            "institution_names": [],
+            "institution_uids": [],
+            "parameters": [],
+            "metric": null,
+            "param_x": "rpc",
+            "param_y": "tlr",
+            "top_n": null,
+            "movement_type": "both",
+            "correlation_method": "both",
+            "outlier_method": "iqr",
+            "outlier_threshold": 1.5,
+            "lookback_years": null,
+            "bins_count": 10,
+            "multi_year_trend": false,
+            "custom_bands": null,
+            "applied_defaults": {},
+            "depends_on": "op_1"
+          }
+        ],
+        "conversation_context": null,
+        "visualization": {
+          "chart_requested": true,
+          "preferred_chart_type": "scatter",
+          "comparison_requested": true,
+          "explanation_requested": true
+        },
+        "clarification_message": null,
+        "unsupported_reason": null,
+        "semantic_retrieval_needed": false
+      }
+    }
+  },
+  {
+    "benchmark": "Follow-up context",
+    "question": "Karnataka 2025 -> +Tamil Nadu -> top 5",
+    "latency_seconds": 10.41,
+    "query_type": "category_performance",
+    "intent_correct": true,
+    "function_correct": true,
+    "arguments_correct": true,
+    "schema_valid": true,
+    "validator_passed": true,
+    "overall_status": "PASS",
+    "turn2_states": [
+      "Karnataka",
+      "Tamil Nadu"
+    ],
+    "turn3_top_n": 5,
+    "plan_turn3": {
+      "query_id": "q_2025_eng_top5_followup",
+      "original_question": "Show only the top five.",
+      "query_type": "category_performance",
+      "analytical_intent": "Update the previous category performance analysis for Engineering institutions in Karnataka and Tamil Nadu for 2025 to limit the results to the top 5 institutions.",
+      "confidence_score": 1.0,
+      "operations": [
+        {
+          "operation_id": "op_1",
+          "function_name": "get_category_performance",
+          "description": "Retrieve the top 5 Engineering institutions in Karnataka and Tamil Nadu for the year 2025.",
+          "category": "Engineering",
+          "year": 2025,
+          "start_year": null,
+          "end_year": null,
+          "states": [
+            "Karnataka",
+            "Tamil Nadu"
+          ],
+          "institution_names": [],
+          "institution_uids": [],
+          "parameters": [],
+          "metric": null,
+          "param_x": null,
+          "param_y": null,
+          "top_n": 5,
+          "movement_type": "both",
+          "correlation_method": "both",
+          "outlier_method": "iqr",
+          "outlier_threshold": 1.5,
+          "lookback_years": null,
+          "bins_count": 10,
+          "multi_year_trend": false,
+          "custom_bands": null,
+          "applied_defaults": {
+            "category": "Inherited from context",
+            "year": "Inherited from context",
+            "states": "Inherited from context"
+          },
+          "depends_on": null
+        }
+      ],
+      "conversation_context": {
+        "previous_category": "Engineering",
+        "previous_year": 2025,
+        "previous_start_year": null,
+        "previous_end_year": null,
+        "previous_states": [
+          "Karnataka",
+          "Tamil Nadu"
+        ],
+        "previous_institution_names": null,
+        "previous_institution_uids": null,
+        "previous_parameters": null,
+        "previous_top_n": 10,
+        "previous_query_type": "category_performance",
+        "inherited_fields": [
+          "category"
+        ],
+        "modified_fields": [
+          "top_n"
+        ]
+      },
+      "visualization": {
+        "chart_requested": true,
+        "preferred_chart_type": "table",
+        "comparison_requested": false,
+        "explanation_requested": false
+      },
+      "clarification_message": null,
+      "unsupported_reason": null,
+      "semantic_retrieval_needed": false
+    },
+    "validation_turn3": {
+      "is_valid": true,
+      "status": "VALID",
+      "errors": [],
+      "warnings": [],
+      "comparability_notes": [
+        "Standard Top 100 publication cutoff."
+      ],
+      "resolved_entities": {
+        "categories": [
+          "Engineering"
+        ],
+        "states": [
+          "Karnataka",
+          "Tamil Nadu"
+        ],
+        "institutions": []
+      },
+      "validated_plan": {
+        "query_id": "q_2025_eng_top5_followup",
+        "original_question": "Show only the top five.",
+        "query_type": "category_performance",
+        "analytical_intent": "Update the previous category performance analysis for Engineering institutions in Karnataka and Tamil Nadu for 2025 to limit the results to the top 5 institutions.",
+        "confidence_score": 1.0,
+        "operations": [
+          {
+            "operation_id": "op_1",
+            "function_name": "get_category_performance",
+            "description": "Retrieve the top 5 Engineering institutions in Karnataka and Tamil Nadu for the year 2025.",
+            "category": "Engineering",
+            "year": 2025,
+            "start_year": null,
+            "end_year": null,
+            "states": [
+              "Karnataka",
+              "Tamil Nadu"
+            ],
+            "institution_names": [],
+            "institution_uids": [],
+            "parameters": [],
+            "metric": null,
+            "param_x": null,
+            "param_y": null,
+            "top_n": 5,
+            "movement_type": "both",
+            "correlation_method": "both",
+            "outlier_method": "iqr",
+            "outlier_threshold": 1.5,
+            "lookback_years": null,
+            "bins_count": 10,
+            "multi_year_trend": false,
+            "custom_bands": null,
+            "applied_defaults": {
+              "category": "Inherited from context",
+              "year": "Inherited from context",
+              "states": "Inherited from context"
+            },
+            "depends_on": null
+          }
+        ],
+        "conversation_context": {
+          "previous_category": "Engineering",
+          "previous_year": 2025,
+          "previous_start_year": null,
+          "previous_end_year": null,
+          "previous_states": [
+            "Karnataka",
+            "Tamil Nadu"
+          ],
+          "previous_institution_names": null,
+          "previous_institution_uids": null,
+          "previous_parameters": null,
+          "previous_top_n": 10,
+          "previous_query_type": "category_performance",
+          "inherited_fields": [
+            "category"
+          ],
+          "modified_fields": [
+            "top_n"
+          ]
+        },
+        "visualization": {
+          "chart_requested": true,
+          "preferred_chart_type": "table",
+          "comparison_requested": false,
+          "explanation_requested": false
+        },
+        "clarification_message": null,
+        "unsupported_reason": null,
+        "semantic_retrieval_needed": false
+      }
+    }
+  }
+]

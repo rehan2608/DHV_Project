@@ -1,0 +1,544 @@
+{
+  "BM-01": [
+    {
+      "fact_id": "BM01-FACT-01",
+      "source_operation": "get_rank_movement",
+      "result_field": "gainers[0].rank_improvement",
+      "entity": "Jain university,Bangalore",
+      "metric": "rank_improvement",
+      "year": [
+        2020,
+        2025
+      ],
+      "category": "Engineering",
+      "filters": {
+        "state": "Karnataka",
+        "top_n": 5
+      },
+      "expected_value": 33,
+      "expected_claim_type": "RANK_CHANGE",
+      "description": "Jain University improved by 33 ranks (117 to 84)."
+    },
+    {
+      "fact_id": "BM01-FACT-02",
+      "source_operation": "get_rank_movement",
+      "result_field": "metadata.valid_observations",
+      "entity": "Karnataka",
+      "metric": "count",
+      "year": [
+        2020,
+        2025
+      ],
+      "category": "Engineering",
+      "filters": {
+        "state": "Karnataka"
+      },
+      "expected_value": 5,
+      "expected_claim_type": "COUNT",
+      "description": "5 institutions had paired observations across both years."
+    },
+    {
+      "fact_id": "BM01-FACT-03",
+      "source_operation": "get_rank_movement",
+      "result_field": "metadata.missing_data_info.departed_institutions",
+      "entity": "Karnataka",
+      "metric": "count",
+      "year": [
+        2020,
+        2025
+      ],
+      "category": "Engineering",
+      "filters": {
+        "state": "Karnataka"
+      },
+      "expected_value": 16,
+      "expected_claim_type": "COUNT",
+      "description": "16 institutions departed the rankings."
+    },
+    {
+      "fact_id": "BM01-FACT-04",
+      "source_operation": "get_rank_movement",
+      "result_field": "metadata.missing_data_info.new_entrant_institutions",
+      "entity": "Karnataka",
+      "metric": "count",
+      "year": [
+        2020,
+        2025
+      ],
+      "category": "Engineering",
+      "filters": {
+        "state": "Karnataka"
+      },
+      "expected_value": 2,
+      "expected_claim_type": "COUNT",
+      "description": "2 institutions were new entrants."
+    },
+    {
+      "fact_id": "BM01-FACT-05",
+      "source_operation": "get_rank_movement",
+      "result_field": "metadata.excluded_observations",
+      "entity": "Karnataka",
+      "metric": "count",
+      "year": [
+        2020,
+        2025
+      ],
+      "category": "Engineering",
+      "filters": {
+        "state": "Karnataka"
+      },
+      "expected_value": 23,
+      "expected_claim_type": "COUNT",
+      "description": "23 observations excluded due to missing data."
+    }
+  ],
+  "BM-02": [],
+  "BM-03": [
+    {
+      "fact_id": "BM03-FACT-01",
+      "source_operation": "get_category_performance",
+      "result_field": "institutions[0].rpc",
+      "entity": "Indian Institute of Technology Madras",
+      "metric": "rpc",
+      "year": 2025,
+      "category": "Engineering",
+      "filters": {},
+      "expected_value": 90.74,
+      "expected_claim_type": "METRIC_VALUE",
+      "description": "IIT Madras RPC score is 90.74."
+    },
+    {
+      "fact_id": "BM03-FACT-02",
+      "source_operation": "get_category_performance",
+      "result_field": "institutions[1].rpc",
+      "entity": "Indian Institute of Technology Bombay",
+      "metric": "rpc",
+      "year": 2025,
+      "category": "Engineering",
+      "filters": {},
+      "expected_value": 84.81,
+      "expected_claim_type": "METRIC_VALUE",
+      "description": "IIT Bombay RPC score is 84.81."
+    },
+    {
+      "fact_id": "BM03-FACT-03",
+      "source_operation": "get_category_performance",
+      "result_field": "institutions[0].rank",
+      "entity": "Indian Institute of Technology Madras",
+      "metric": "rank",
+      "year": 2025,
+      "category": "Engineering",
+      "filters": {},
+      "expected_value": 1,
+      "expected_claim_type": "RANK_VALUE",
+      "description": "IIT Madras rank is 1."
+    },
+    {
+      "fact_id": "BM03-FACT-04",
+      "source_operation": "get_category_performance",
+      "result_field": "institutions[1].rank",
+      "entity": "Indian Institute of Technology Bombay",
+      "metric": "rank",
+      "year": 2025,
+      "category": "Engineering",
+      "filters": {},
+      "expected_value": 3,
+      "expected_claim_type": "RANK_VALUE",
+      "description": "IIT Bombay rank is 3."
+    },
+    {
+      "fact_id": "BM03-FACT-05",
+      "source_operation": "get_category_performance",
+      "result_field": "institutions[0].score",
+      "entity": "Indian Institute of Technology Madras",
+      "metric": "score",
+      "year": 2025,
+      "category": "Engineering",
+      "filters": {},
+      "expected_value": 88.72,
+      "expected_claim_type": "METRIC_VALUE",
+      "description": "IIT Madras total score is 88.72."
+    },
+    {
+      "fact_id": "BM03-FACT-06",
+      "source_operation": "get_category_performance",
+      "result_field": "institutions[1].score",
+      "entity": "Indian Institute of Technology Bombay",
+      "metric": "score",
+      "year": 2025,
+      "category": "Engineering",
+      "filters": {},
+      "expected_value": 83.65,
+      "expected_claim_type": "METRIC_VALUE",
+      "description": "IIT Bombay total score is 83.65."
+    }
+  ],
+  "BM-04": [
+    {
+      "fact_id": "BM04-FACT-01",
+      "source_operation": "get_category_performance",
+      "result_field": "institutions[0].score",
+      "entity": "Indian Institute of Technology Madras",
+      "metric": "score",
+      "year": 2025,
+      "category": "Engineering",
+      "filters": {
+        "top_n": 10
+      },
+      "expected_value": 88.72,
+      "expected_claim_type": "METRIC_VALUE",
+      "description": "IIT Madras overall score 88.72."
+    },
+    {
+      "fact_id": "BM04-FACT-02",
+      "source_operation": "get_category_performance",
+      "result_field": "institutions[0].tlr",
+      "entity": "Indian Institute of Technology Madras",
+      "metric": "tlr",
+      "year": 2025,
+      "category": "Engineering",
+      "filters": {
+        "top_n": 10
+      },
+      "expected_value": 95.7,
+      "expected_claim_type": "METRIC_VALUE",
+      "description": "IIT Madras TLR 95.70."
+    },
+    {
+      "fact_id": "BM04-FACT-03",
+      "source_operation": "get_category_performance",
+      "result_field": "institutions[1].rpc",
+      "entity": "Indian Institute of Technology Delhi",
+      "metric": "rpc",
+      "year": 2025,
+      "category": "Engineering",
+      "filters": {
+        "top_n": 10
+      },
+      "expected_value": 93.47,
+      "expected_claim_type": "METRIC_VALUE",
+      "description": "IIT Delhi RPC 93.47."
+    },
+    {
+      "fact_id": "BM04-FACT-04",
+      "source_operation": "get_parameter_relationship",
+      "result_field": "regression.pearson_r",
+      "entity": "Engineering Cohort",
+      "metric": "pearson_r",
+      "year": 2025,
+      "category": "Engineering",
+      "filters": {
+        "top_n": 10
+      },
+      "expected_value": 0.6227,
+      "expected_claim_type": "CORRELATION",
+      "description": "Pearson r between RPC and TLR is 0.6227."
+    },
+    {
+      "fact_id": "BM04-FACT-05",
+      "source_operation": "get_parameter_relationship",
+      "result_field": "medians.x_median",
+      "entity": "Engineering Cohort",
+      "metric": "rpc",
+      "year": 2025,
+      "category": "Engineering",
+      "filters": {
+        "top_n": 10
+      },
+      "expected_value": 76.45,
+      "expected_claim_type": "AGGREGATE_STATISTIC",
+      "description": "Median RPC for cohort is 76.45."
+    },
+    {
+      "fact_id": "BM04-FACT-06",
+      "source_operation": "get_parameter_relationship",
+      "result_field": "medians.y_median",
+      "entity": "Engineering Cohort",
+      "metric": "tlr",
+      "year": 2025,
+      "category": "Engineering",
+      "filters": {
+        "top_n": 10
+      },
+      "expected_value": 85.58,
+      "expected_claim_type": "AGGREGATE_STATISTIC",
+      "description": "Median TLR for cohort is 85.58."
+    },
+    {
+      "fact_id": "BM04-FACT-07",
+      "source_operation": "get_category_performance",
+      "result_field": "metadata.top_n",
+      "entity": "Engineering Cohort",
+      "metric": "count",
+      "year": 2025,
+      "category": "Engineering",
+      "filters": {
+        "top_n": 10
+      },
+      "expected_value": 10,
+      "expected_claim_type": "COUNT",
+      "description": "Top 10 institutions cohort size."
+    },
+    {
+      "fact_id": "BM04-FACT-08",
+      "source_operation": "get_parameter_relationship",
+      "result_field": "regression.spearman_rho",
+      "entity": "Engineering Cohort",
+      "metric": "spearman_rho",
+      "year": 2025,
+      "category": "Engineering",
+      "filters": {
+        "top_n": 10
+      },
+      "expected_value": 0.4909,
+      "expected_claim_type": "CORRELATION",
+      "description": "Spearman rho between RPC and TLR is 0.4909."
+    },
+    {
+      "fact_id": "BM04-FACT-09",
+      "source_operation": "get_parameter_relationship",
+      "result_field": "regression.r_squared",
+      "entity": "Engineering Cohort",
+      "metric": "r_squared",
+      "year": 2025,
+      "category": "Engineering",
+      "filters": {
+        "top_n": 10
+      },
+      "expected_value": 0.3877,
+      "expected_claim_type": "CORRELATION",
+      "description": "Coefficient of determination R-squared is 0.3877."
+    }
+  ],
+  "BM-05": [],
+  "BM-06": [
+    {
+      "fact_id": "BM06-FACT-01",
+      "source_operation": "get_rank_movement",
+      "result_field": "metadata.valid_observations",
+      "entity": "Management",
+      "metric": "count",
+      "year": [
+        2017,
+        2025
+      ],
+      "category": "Management",
+      "filters": {},
+      "expected_value": 40,
+      "expected_claim_type": "COUNT",
+      "description": "40 paired institutions tracked across methodology change."
+    },
+    {
+      "fact_id": "BM06-FACT-02",
+      "source_operation": "get_rank_movement",
+      "result_field": "metadata.warnings[0].cutoff",
+      "entity": "Management",
+      "metric": "count",
+      "year": [
+        2017,
+        2025
+      ],
+      "category": "Management",
+      "filters": {},
+      "expected_value": 50,
+      "expected_claim_type": "COUNT",
+      "description": "Comparisons restricted to Top 50 institutions due to cutoff expansion."
+    }
+  ],
+  "BM-07": [
+    {
+      "fact_id": "BM07-FACT-01",
+      "source_operation": "get_geographic_distribution",
+      "result_field": "states_analysis[Tamil Nadu].distinct_institutions",
+      "entity": "Tamil Nadu",
+      "metric": "distinct_institutions",
+      "year": 2025,
+      "category": "Engineering",
+      "filters": {
+        "top_n": 100
+      },
+      "expected_value": 14,
+      "expected_claim_type": "COUNT",
+      "description": "Tamil Nadu has 14 distinct institutions in top 100."
+    },
+    {
+      "fact_id": "BM07-FACT-02",
+      "source_operation": "get_geographic_distribution",
+      "result_field": "states_analysis[Karnataka].distinct_institutions",
+      "entity": "Karnataka",
+      "metric": "distinct_institutions",
+      "year": 2025,
+      "category": "Engineering",
+      "filters": {
+        "top_n": 100
+      },
+      "expected_value": 7,
+      "expected_claim_type": "COUNT",
+      "description": "Karnataka has 7 distinct institutions in top 100."
+    },
+    {
+      "fact_id": "BM07-FACT-03",
+      "source_operation": "get_geographic_distribution",
+      "result_field": "states_analysis[Tamil Nadu].top_10",
+      "entity": "Tamil Nadu",
+      "metric": "rank",
+      "year": 2025,
+      "category": "Engineering",
+      "filters": {
+        "top_n": 10
+      },
+      "expected_value": 2,
+      "expected_claim_type": "COUNT",
+      "description": "Tamil Nadu has 2 institutions in top 10."
+    },
+    {
+      "fact_id": "BM07-FACT-04",
+      "source_operation": "get_geographic_distribution",
+      "result_field": "states_analysis[Karnataka].top_10",
+      "entity": "Karnataka",
+      "metric": "rank",
+      "year": 2025,
+      "category": "Engineering",
+      "filters": {
+        "top_n": 10
+      },
+      "expected_value": 0,
+      "expected_claim_type": "COUNT",
+      "description": "Karnataka has 0 institutions in top 10."
+    },
+    {
+      "fact_id": "BM07-FACT-05",
+      "source_operation": "get_geographic_distribution",
+      "result_field": "states_analysis[Tamil Nadu].top_50",
+      "entity": "Tamil Nadu",
+      "metric": "rank",
+      "year": 2025,
+      "category": "Engineering",
+      "filters": {
+        "top_n": 50
+      },
+      "expected_value": 10,
+      "expected_claim_type": "COUNT",
+      "description": "Tamil Nadu has 10 institutions in top 50."
+    },
+    {
+      "fact_id": "BM07-FACT-06",
+      "source_operation": "get_geographic_distribution",
+      "result_field": "states_analysis[Karnataka].top_50",
+      "entity": "Karnataka",
+      "metric": "rank",
+      "year": 2025,
+      "category": "Engineering",
+      "filters": {
+        "top_n": 50
+      },
+      "expected_value": 1,
+      "expected_claim_type": "COUNT",
+      "description": "Karnataka has 1 institution in top 50."
+    },
+    {
+      "fact_id": "BM07-FACT-07",
+      "source_operation": "get_geographic_distribution",
+      "result_field": "states_analysis[Tamil Nadu].average_score",
+      "entity": "Tamil Nadu",
+      "metric": "score",
+      "year": 2025,
+      "category": "Engineering",
+      "filters": {},
+      "expected_value": 59.85,
+      "expected_claim_type": "AGGREGATE_STATISTIC",
+      "description": "Tamil Nadu average score is 59.85."
+    },
+    {
+      "fact_id": "BM07-FACT-08",
+      "source_operation": "get_geographic_distribution",
+      "result_field": "states_analysis[Karnataka].average_score",
+      "entity": "Karnataka",
+      "metric": "score",
+      "year": 2025,
+      "category": "Engineering",
+      "filters": {},
+      "expected_value": 51.79,
+      "expected_claim_type": "AGGREGATE_STATISTIC",
+      "description": "Karnataka average score is 51.79."
+    },
+    {
+      "fact_id": "BM07-FACT-09",
+      "source_operation": "get_geographic_distribution",
+      "result_field": "states_analysis[Tamil Nadu].median_score",
+      "entity": "Tamil Nadu",
+      "metric": "score",
+      "year": 2025,
+      "category": "Engineering",
+      "filters": {},
+      "expected_value": 58.53,
+      "expected_claim_type": "AGGREGATE_STATISTIC",
+      "description": "Tamil Nadu median score is 58.53."
+    },
+    {
+      "fact_id": "BM07-FACT-10",
+      "source_operation": "get_geographic_distribution",
+      "result_field": "states_analysis[Karnataka].median_score",
+      "entity": "Karnataka",
+      "metric": "score",
+      "year": 2025,
+      "category": "Engineering",
+      "filters": {},
+      "expected_value": 49.26,
+      "expected_claim_type": "AGGREGATE_STATISTIC",
+      "description": "Karnataka median score is 49.26."
+    },
+    {
+      "fact_id": "BM07-FACT-11",
+      "source_operation": "get_geographic_distribution",
+      "result_field": "states_analysis[Tamil Nadu].average_rpc",
+      "entity": "Tamil Nadu",
+      "metric": "rpc",
+      "year": 2025,
+      "category": "Engineering",
+      "filters": {},
+      "expected_value": 50.3,
+      "expected_claim_type": "AGGREGATE_STATISTIC",
+      "description": "Tamil Nadu average RPC is 50.30."
+    },
+    {
+      "fact_id": "BM07-FACT-12",
+      "source_operation": "get_geographic_distribution",
+      "result_field": "states_analysis[Karnataka].average_rpc",
+      "entity": "Karnataka",
+      "metric": "rpc",
+      "year": 2025,
+      "category": "Engineering",
+      "filters": {},
+      "expected_value": 35.94,
+      "expected_claim_type": "AGGREGATE_STATISTIC",
+      "description": "Karnataka average RPC is 35.94."
+    },
+    {
+      "fact_id": "BM07-FACT-13",
+      "source_operation": "get_geographic_distribution",
+      "result_field": "states_analysis[Tamil Nadu].average_tlr",
+      "entity": "Tamil Nadu",
+      "metric": "tlr",
+      "year": 2025,
+      "category": "Engineering",
+      "filters": {},
+      "expected_value": 74.71,
+      "expected_claim_type": "AGGREGATE_STATISTIC",
+      "description": "Tamil Nadu average TLR is 74.71."
+    },
+    {
+      "fact_id": "BM07-FACT-14",
+      "source_operation": "get_geographic_distribution",
+      "result_field": "states_analysis[Karnataka].average_tlr",
+      "entity": "Karnataka",
+      "metric": "tlr",
+      "year": 2025,
+      "category": "Engineering",
+      "filters": {},
+      "expected_value": 70.21,
+      "expected_claim_type": "AGGREGATE_STATISTIC",
+      "description": "Karnataka average TLR is 70.21."
+    }
+  ]
+}

@@ -1,0 +1,378 @@
+original_city,standardized_location,state_std,location_type,mapping_reason,evidence_source,confidence_level
+A.Rangampet,A.Rangampet,Andhra Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Agra,Agra,Uttar Pradesh,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Agratala,Agartala,Tripura,Municipality / Town,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Ahmadabad,Ahmedabad,Gujarat,Municipal Corporation / City,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Ahmedabad,Ahmedabad,Gujarat,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Aizawl,Aizawl,Mizoram,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Aizwal,Aizawl,Mizoram,Municipality / Town,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Alappuzha,Alappuzha,Kerala,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Aligarh,Aligarh,Uttar Pradesh,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Allahabad,Prayagraj,Uttar Pradesh,Municipal Corporation / City,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Ambala,Ambala,Haryana,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Amethi,Amethi,Uttar Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Amravati,Amravati,Maharashtra,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Amritapuri,Amritapuri,Kerala,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Amritsar,Amritsar,Punjab,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Anand,Anand,Gujarat,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Anantapur,Anantapur,Andhra Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Anantapuramu,Anantapur,Andhra Pradesh,Municipality / Town,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Annamalainagar,Annamalainagar,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Aurangabad,Aurangabad,Maharashtra,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+B G Nagar,B.G. Nagara,Karnataka,Census Town / Gram Panchayat / Village,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+B.G Nagara,B.G. Nagara,Karnataka,Census Town / Gram Panchayat / Village,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+BHUBANESWAR,Bhubaneswar,Odisha,Municipal Corporation / City,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+BILASPUR (Chhattisgarh),Bilaspur,Chhattisgarh,Municipality / Town,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Bagalkot,Bagalkot,Karnataka,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Banasthali,Banasthali,Rajasthan,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Bangalore,Bengaluru,Karnataka,Municipal Corporation / City,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Barddhaman,Bardhaman,West Bengal,Municipality / Town,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Bardhaman,Bardhaman,West Bengal,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Bardoli,Bardoli,Gujarat,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Bareilly,Bareilly,Uttar Pradesh,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Bathinda,Bathinda,Punjab,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Bela,Bela,Punjab,Census Town / Gram Panchayat / Village,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Belagavi,Belagavi,Karnataka,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Belgaum,Belagavi,Karnataka,Municipality / Town,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Bengaluru,Bengaluru,Karnataka,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Bengluru,Bengaluru,Karnataka,Municipal Corporation / City,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Bhagalpur,Bhagalpur,Bihar,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Bhimavaram,Bhimavaram,Andhra Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Bhopal,Bhopal,Madhya Pradesh,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Bhuabaneswar,Bhubaneswar,Odisha,Municipal Corporation / City,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Bhubaneswar,Bhubaneswar,Odisha,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Bhubneshwar,Bhubaneswar,Odisha,Municipal Corporation / City,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Bidar,Bidar,Karnataka,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Bikaner,Bikaner,Rajasthan,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Bilaspur,Bilaspur,Chhattisgarh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Bilaspur (Chhattisgarh),Bilaspur,Chhattisgarh,Municipality / Town,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Burla,Burla,Odisha,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Calcutta,Kolkata,West Bengal,Municipal Corporation / City,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Calcutta-16,Kolkata,West Bengal,Municipal Corporation / City,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Calicut,Calicut,Kerala,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Chandigarh,Chandigarh,Chandigarh,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Changa,Changa,Gujarat,Census Town / Gram Panchayat / Village,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Chennai,Chennai,Tamil Nadu,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Chithera,Chithera,Uttar Pradesh,Census Town / Gram Panchayat / Village,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Chittoor,Chittoor,Andhra Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Cochin,Kochi,Kerala,Municipal Corporation / City,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Coimbatore,Coimbatore,Tamil Nadu,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Cooch Behar,Cooch Behar,West Bengal,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Cuttack,Cuttack,Odisha,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Dadri,Dadri,Uttar Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Davangere,Davangere,Karnataka,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Dehradun,Dehradun,Uttarakhand,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Delhi,New Delhi,Delhi,Municipal Corporation / City,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Dhanbad,Dhanbad,Jharkhand,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Dharwad,Dharwad,Karnataka,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Dibrugarh,Dibrugarh,Assam,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Dindigul,Dindigul,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Dist. Amravati,Amravati,Maharashtra,Municipality / Town,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Dist. Anand,Anand,Gujarat,Municipality / Town,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Dist. Calicut,Kozhikode,Kerala,Municipal Corporation / City,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Dist. Dakshin Kannad,Mangaluru,Karnataka,Municipal Corporation / City,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Dist. Dharwad,Dharwad,Karnataka,Municipality / Town,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Dist. Ernakula,Ernakulam,Kerala,Municipality / Town,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Dist. Ernakulam,Ernakulam,Kerala,Municipality / Town,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Dist. Junagadh,Junagadh,Gujarat,Municipality / Town,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Dist. Kottayam,Kottayam,Kerala,District Headquarters,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Dist. Osmanabad,Dharashiv,Maharashtra,Municipality / Town,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Dist. Palakkad,Palakkad,Kerala,District Headquarters,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Dist. Pune,Pune,Maharashtra,Municipal Corporation / City,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Dist. Rajkot,Rajkot,Gujarat,Municipality / Town,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Dist. Sangli,Sangli,Maharashtra,Municipality / Town,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Dist. Trichur,Thrissur,Kerala,Municipal Corporation / City,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+District Anantapur,Anantapur,Andhra Pradesh,Municipality / Town,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+District Chennai,Chennai,Tamil Nadu,Municipal Corporation / City,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+District Coimbatore,Coimbatore,Tamil Nadu,Municipal Corporation / City,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+District Erode,Erode,Tamil Nadu,Municipality / Town,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+District Jorhat,Jorhat,Assam,District Headquarters,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+District Kancheepuram,Kancheepuram,Tamil Nadu,District Headquarters,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+District Kanyakumari,Kanyakumari,Tamil Nadu,Municipality / Town,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+District Krishna,Krishna,Andhra Pradesh,District Headquarters,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+District Midnapore,Midnapore,West Bengal,District Headquarters,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+District Nagpur,Nagpur,Maharashtra,Municipal Corporation / City,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+District Quaide-E-Milleth,Mayiladuthurai,Tamil Nadu,Municipality / Town,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+District Tiruchirapalli,Tiruchirappalli,Tamil Nadu,Municipality / Town,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+District Trichur,District Trichur,Kerala,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+District Virudhnagar,Virudhunagar,Tamil Nadu,District Headquarters,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+District Visakapatnam,District Visakapatnam,Andhra Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+District Wardha,Wardha,Maharashtra,District Headquarters,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Durg,Durg,Chhattisgarh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Durgapur,Durgapur,West Bengal,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Dwarka,Dwarka,Delhi,Urban Locality / Suburb,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+East Sikkim,East Sikkim,Sikkim,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Ernakulam,Ernakulam,Kerala,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Erode,Erode,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Faizabad,Faizabad,Uttar Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Faridabad,Faridabad,Haryana,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Gandhigram,Gandhigram,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Gandhinagar,Gandhinagar,Gujarat,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Gangtok,Gangtok,Sikkim,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Gautam Buddha Nagar,Gautam Buddha Nagar,Uttar Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Gautam Budh Nagar,Gautam Budh Nagar,Uttar Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Gaya,Gaya,Bihar,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Ghaziabad,Ghaziabad,Uttar Pradesh,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Goa,Goa,Goa,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Gorakhpur,Gorakhpur,Uttar Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Greater Noida,Greater Noida,Uttar Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Guntur,Guntur,Andhra Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Gurgaon,Gurugram,Haryana,Municipality / Town,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Gurugram,Gurugram,Haryana,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+"Gurugram, Haryana",Gurugram,Haryana,Municipality / Town,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Guwahati,Guwahati,Assam,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Gwalior,Gwalior,Madhya Pradesh,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+HOWRAH,Howrah,West Bengal,Municipal Corporation / City,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+HYDERABAD,Hyderabad,Telangana,Municipal Corporation / City,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Hajipur,Hajipur,Bihar,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Haldia,Haldia,West Bengal,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Hamirpur,Hamirpur,Himachal Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Hanamkonda,Hanamkonda,Telangana,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+"Hanamkonda, Warangal",Hanamkonda,Telangana,Municipality / Town,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Hanumakonda,Hanamkonda,Telangana,Municipality / Town,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Hisar,Hisar,Haryana,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Hissar,Hisar,Haryana,Municipality / Town,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Howrah,Howrah,West Bengal,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+"Hubli, Dist. Dharwad",Hubballi,Karnataka,Municipality / Town,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Hyderabad,Hyderabad,Telangana,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Ibrahimpatan,Ibrahimpatan,Telangana,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Idukki,Idukki,Kerala,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Imphal,Imphal,Manipur,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Imphal West,Imphal West,Manipur,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Indore,Indore,Madhya Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Itanagar,Itanagar,Arunachal Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Jabalpur,Jabalpur,Madhya Pradesh,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Jaipur,Jaipur,Rajasthan,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Jalandhar,Jalandhar,Punjab,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Jammu,Jammu,Jammu and Kashmir,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Jammu Tawi,Jammu Tawi,Jammu and Kashmir,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Jamshedpur,Jamshedpur,Jharkhand,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Jhansi,Jhansi,Uttar Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Jodhpur,Jodhpur,Rajasthan,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Jorhat,Jorhat,Assam,District Headquarters,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Junagadh,Junagadh,Gujarat,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+KOLKATA,Kolkata,West Bengal,Municipal Corporation / City,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Kakinada,Kakinada,Andhra Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Kalavakkam,Kalavakkam,Tamil Nadu,Census Town / Gram Panchayat / Village,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Kalkaji,Kalkaji,Delhi,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Kalyani,Kalyani,West Bengal,Urban Locality / Suburb,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Kamptee,Kamptee,Maharashtra,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Kamrup,Kamrup,Assam,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Kancheepuram,Kancheepuram,Tamil Nadu,District Headquarters,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Kanchipuram District,Kancheepuram,Tamil Nadu,District Headquarters,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Kangra,Kangra,Himachal Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Kannur,Kannur,Kerala,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Kanpur,Kanpur,Uttar Pradesh,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Kanpur Nagar,Kanpur Nagar,Uttar Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Kapurthala,Kapurthala,Punjab,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Karad,Karad,Maharashtra,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Karaikal,Karaikal,Puducherry,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Karaikudi,Karaikudi,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Karattatipalayam Post,Karattatipalayam Post,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Karnal,Karnal,Haryana,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Kasaragod,Kasaragod,Kerala,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Kashipur,Kashipur,Uttarakhand,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Katra,Katra,Jammu and Kashmir,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Kavaraipettai,Kavaraipettai,Tamil Nadu,Census Town / Gram Panchayat / Village,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Kelambakkam,Kelambakkam,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+"Kelambakkam, Chengalpattu District",Chengalpattu,Tamil Nadu,Municipality / Town,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Kharagpur,Kharagpur,West Bengal,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Khordha,Khordha,Odisha,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Kishangarh,Kishangarh,Rajasthan,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Kochi,Kochi,Kerala,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Kolhapur,Kolhapur,Maharashtra,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Kolkata,Kolkata,West Bengal,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Kollam,Kollam,Kerala,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Kopargaon,Kopargaon,Maharashtra,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Kothamangalam,Kothamangalam,Kerala,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Kottayam,Kottayam,Kerala,District Headquarters,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Kovilpatti,Kovilpatti,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Kozhikode,Kozhikode,Kerala,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Krishnan Koil,Krishnan Koil,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Kumbakonam,Kumbakonam,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Kurnool,Kurnool,Andhra Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Kurukshetra,Kurukshetra,Haryana,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Kurushetra,Kurukshetra,Haryana,Municipality / Town,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Kuttikanam,Kuttikanam,Kerala,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+LUCKNOW,LUCKNOW,Uttar Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Landran,Landran,Punjab,Census Town / Gram Panchayat / Village,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Longowal,Longowal,Punjab,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Lucknow,Lucknow,Uttar Pradesh,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Ludhiana,Ludhiana,Punjab,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+MEERUT,MEERUT,Uttar Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Madurai,Madurai,Tamil Nadu,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Mahe,Mahe,Puducherry,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Malappuram,Malappuram,Kerala,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Mandi,Mandi,Himachal Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Mandya,Mandya,Karnataka,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Mangalagangotri,Mangalagangotri,Karnataka,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Mangalagiri,Mangalagiri,Andhra Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Mangalore,Mangaluru,Karnataka,Municipal Corporation / City,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Mangaluru,Mangaluru,Karnataka,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Manipal,Manipal,Karnataka,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Manipur,Manipur,Manipur,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Marthandam,Marthandam,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Mathura,Mathura,Uttar Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Medak,Medak,Telangana,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Melmaruvathur,Melmaruvathur,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Mengaluru,Mengaluru,Karnataka,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Midnapore,Midnapore,West Bengal,District Headquarters,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Moga,Moga,Punjab,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Mohali,Mohali,Punjab,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Mohanpur,Mohanpur,West Bengal,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Moradabad,Moradabad,Uttar Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Morai,Morai,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Mumbai,Mumbai,Maharashtra,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Mumbai Suburban,Mumbai Suburban,Maharashtra,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Mysore,Mysuru,Karnataka,Municipal Corporation / City,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Mysuru,Mysuru,Karnataka,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+NAGPUR,Nagpur,Maharashtra,Municipal Corporation / City,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+NEW DELHI,New Delhi,Delhi,Municipal Corporation / City,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Nadia,Nadia,West Bengal,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Nadiad,Nadiad,Gujarat,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Nagapattinam,Nagapattinam,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Nagercoil,Nagercoil,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Nagpur,Nagpur,Maharashtra,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Nainital,Nainital,Uttarakhand,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Namakkal,Namakkal,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Nanded,Nanded,Maharashtra,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Narsapur,Narsapur,Telangana,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Nashik,Nashik,Maharashtra,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Navi Mumbai,Navi Mumbai,Maharashtra,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Navsari,Navsari,Gujarat,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+New Delhi,New Delhi,Delhi,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Nilgiri,Ooty,Tamil Nadu,Municipality / Town,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Nitte,Nitte,Karnataka,Census Town / Gram Panchayat / Village,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+"Nitte, Udupi",Udupi,Karnataka,Municipality / Town,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Noida,Noida,Uttar Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+North Twenty Four Parganas,North Twenty Four Parganas,West Bengal,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Ootacamund,Ooty,Tamil Nadu,Municipality / Town,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Ooty,Ooty,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+PUDUCHERRY,Puducherry,Puducherry,Municipality / Town,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Palakkad,Palakkad,Kerala,District Headquarters,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Palayamkottai,Palayamkottai,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Palwal,Palwal,Haryana,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Panaji,Panaji,Goa,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Pantnagar,Pantnagar,Uttarakhand,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Paralakhemundi,Paralakhemundi,Odisha,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Paschim Medinipur,Paschim Medinipur,West Bengal,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Patiala,Patiala,Punjab,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Patna,Patna,Bihar,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Perambalur,Perambalur,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Perundurai,Perundurai,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Phagwara,Phagwara,Punjab,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Pilani,Pilani,Rajasthan,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Pollachi,Pollachi,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Ponda,Ponda,Goa,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Pondicherry,Puducherry,Puducherry,Municipality / Town,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+"Poriem, Sattari",Sattari,Goa,Municipality / Town,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Potheri,Potheri,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Prayagraj,Prayagraj,Uttar Pradesh,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Prayagraj (Allahabad),Prayagraj,Uttar Pradesh,Municipal Corporation / City,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Puducherry,Puducherry,Puducherry,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Pune,Pune,Maharashtra,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Quepem,Quepem,Goa,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Rahara,Rahara,West Bengal,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Rahuri,Rahuri,Maharashtra,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Raichur,Raichur,Karnataka,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Raipur,Raipur,Chhattisgarh,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Raisen,Raisen,Madhya Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Rajam,Rajam,Andhra Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Rajasthan,Rajasthan,Rajasthan,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Rajkot,Rajkot,Gujarat,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Rajpura,Rajpura,Punjab,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Ramachandrapuram,Ramachandrapuram,Andhra Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Ranchi,Ranchi,Jharkhand,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Rangareddy,Rangareddy,Telangana,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Rishikesh,Rishikesh,Uttarakhand,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Rohtak,Rohtak,Haryana,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Rono Hills,Rono Hills,Arunachal Pradesh,Census Town / Gram Panchayat / Village,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Roorkee,Roorkee,Uttarakhand,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Rourkela,Rourkela,Odisha,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Rupnagar,Rupnagar,Punjab,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+S.A.S. Nagar (Mohali),Mohali,Punjab,Municipality / Town,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+SURAT,SURAT,Gujarat,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Sagar,Sagar,Madhya Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Saharanpur,Saharanpur,Uttar Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Sahibzada Ajit Singh Nagar,Sahibzada Ajit Singh Nagar,Punjab,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Salem,Salem,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Samastipur,Samastipur,Bihar,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Sambalpur,Sambalpur,Odisha,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Sangli,Sangli,Maharashtra,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Sanquelim,Sanquelim,Goa,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Santiniketan,Santiniketan,West Bengal,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Sathyamangalam,Sathyamangalam,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Satyavedu,Satyavedu,Andhra Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Sector 32 Chandigarh,Chandigarh,Chandigarh,Municipal Corporation / City,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+"Sector-36, Chandigarh",Chandigarh,Chandigarh,Municipal Corporation / City,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Secunderabad,Secunderabad,Telangana,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Secunderabd,Secunderabd,Telangana,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Select City,Shimla,Himachal Pradesh,Municipal Corporation / City,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Shibpur,Shibpur,West Bengal,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Shillong,Shillong,Meghalaya,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Shimoga,Shimoga,Karnataka,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Shirpur,Shirpur,Maharashtra,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Shivamogga,Shivamogga,Karnataka,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Silchar,Silchar,Assam,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Sirmaur,Sirmaur,Himachal Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Sivakasi,Sivakasi,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Solan,Solan,Himachal Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Sonepat,Sonepat,Haryana,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Sonipat,Sonipat,Haryana,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+South,South,Delhi,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+South Andaman,South Andaman,Andaman and Nicobar Islands,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+South Sikkim,South Sikkim,Sikkim,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+South West,South West,Delhi,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Sri City,Sri City,Andhra Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+"Sri City, Chittoor",Sri City,Andhra Pradesh,Municipality / Town,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Sri Potti Sriramulu Nellore,Sri Potti Sriramulu Nellore,Andhra Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Srinagar,Srinagar,Jammu and Kashmir,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Srinagar (Garhwal),Srinagar (Garhwal),Uttarakhand,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Sriperumbudur,Sriperumbudur,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Srivilliputhur,Srivilliputhur,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Srivilliputtur,Srivilliputtur,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Surat,Surat,Gujarat,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Surathkal,Surathkal,Karnataka,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Tarsadi,Tarsadi,Gujarat,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Tezpur,Tezpur,Assam,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Thanjavur,Thanjavur,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Thiruvalla,Tiruvalla,Kerala,Municipality / Town,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Thiruvallur,Thiruvallur,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Thiruvananthapuram,Thiruvananthapuram,Kerala,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Thoothukkudi,Thoothukkudi,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Thoothukudi,Thoothukudi,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Thrissur,Thrissur,Kerala,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Tiruchengode,Tiruchengode,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Tiruchirapalli,Tiruchirappalli,Tamil Nadu,Municipality / Town,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Tiruchirappalli,Tiruchirappalli,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Tirunelveli,Tirunelveli,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Tirunelveli -,Tirunelveli -,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Tirupathi,Tirupathi,Andhra Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Tirupati,Tirupati,Andhra Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Tirupattur,Tirupattur,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Tiruppur,Tiruppur,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Tiruvalla,Tiruvalla,Kerala,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Tiruvarur,Tiruvarur,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Tumkur,Tumkur,Karnataka,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Tuticorin,Tuticorin,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Udaipur,Udaipur,Rajasthan,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Udumalpet,Udumalpet,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Udupi,Udupi,Karnataka,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Vaddeswaram,Vaddeswaram,Andhra Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Vadodara,Vadodara,Gujarat,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Valanchary,Valanchary,Kerala,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Varanasi,Varanasi,Uttar Pradesh,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Vellore,Vellore,Tamil Nadu,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Vijayapura,Vijayapura,Karnataka,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Vijayawada,Vijayawada,Andhra Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Virajpet,Virajpet,Karnataka,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Virudhnagar,Virudhunagar,Tamil Nadu,District Headquarters,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Virudhunagar,Virudhunagar,Tamil Nadu,District Headquarters,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Visakhapatnam,Visakhapatnam,Andhra Pradesh,Municipal Corporation / City,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Vishakhapatnam,Vishakhapatnam,Andhra Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Warangal,Warangal,Telangana,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+Wardha,Wardha,Maharashtra,District Headquarters,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+West Godavari,West Godavari,Andhra Pradesh,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High
+YERPEDU,Yerpedu,Andhra Pradesh,Census Town / Gram Panchayat / Village,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Yerpedu,Yerpedu,Andhra Pradesh,Census Town / Gram Panchayat / Village,Normalized official municipal spelling / stripped administrative prefix / unified case,Census of India / Ministry of Urban Development & Local Government Directory,High
+Zunheboto,Zunheboto,Nagaland,Municipality / Town,Preserved original municipal location,Census of India / Ministry of Urban Development & Local Government Directory,High

@@ -1,0 +1,73 @@
+[
+  {
+    "question_id": "RAG-01",
+    "question": "What does TLR mean in NIRF and how is it calculated?",
+    "expected_document_ids": ["nirf_methodology_reference", "data_dictionary"],
+    "expected_keywords": ["Teaching", "Learning", "Resources", "Faculty", "Student"],
+    "category": "parameters"
+  },
+  {
+    "question_id": "RAG-02",
+    "question": "What does RPC represent and what are its sub-parameters?",
+    "expected_document_ids": ["nirf_methodology_reference", "data_dictionary"],
+    "expected_keywords": ["Research", "Professional Practice", "Publications", "Patents"],
+    "category": "parameters"
+  },
+  {
+    "question_id": "RAG-03",
+    "question": "What are the core NIRF ranking parameters and their standard weightages?",
+    "expected_document_ids": ["nirf_methodology_reference"],
+    "expected_keywords": ["TLR", "RPC", "GO", "OI", "Perception"],
+    "category": "methodology"
+  },
+  {
+    "question_id": "RAG-04",
+    "question": "What is the difference between TLR and RPC in NIRF?",
+    "expected_document_ids": ["nirf_methodology_reference"],
+    "expected_keywords": ["TLR", "RPC", "Teaching", "Research"],
+    "category": "methodology"
+  },
+  {
+    "question_id": "RAG-05",
+    "question": "What does Research Specific metric schema mean in NIRF?",
+    "expected_document_ids": ["nirf_methodology_reference", "comparability_rules"],
+    "expected_keywords": ["research_sfc", "research_qnr", "research_qlr"],
+    "category": "schema"
+  },
+  {
+    "question_id": "RAG-06",
+    "question": "How does NIRF handle rank bands above 100?",
+    "expected_document_ids": ["nirf_methodology_reference", "comparability_report"],
+    "expected_keywords": ["101-150", "151-200", "band"],
+    "category": "comparability"
+  },
+  {
+    "question_id": "RAG-07",
+    "question": "What is the definition and role of composite score and rank in the data dictionary?",
+    "expected_document_ids": ["data_dictionary"],
+    "expected_keywords": ["score", "rank", "Composite Score"],
+    "category": "dictionary"
+  },
+  {
+    "question_id": "RAG-08",
+    "question": "How were institution identity and AISHE code discrepancies resolved?",
+    "expected_document_ids": ["institution_identity_audit"],
+    "expected_keywords": ["AISHE", "UID", "resolution"],
+    "category": "audit"
+  },
+  {
+    "question_id": "RAG-09",
+    "question": "What were the findings of the final independent data validation audit?",
+    "expected_document_ids": ["final_validation_report"],
+    "expected_keywords": ["6,980", "40 columns", "audit"],
+    "category": "audit"
+  },
+  {
+    "question_id": "RAG-10",
+    "question": "What standard was used for state and union territory geographic harmonization?",
+    "expected_document_ids": ["geography_audit"],
+    "expected_keywords": ["States", "Union Territories", "geography"],
+    "category": "audit"
+  }
+]
+

@@ -1,0 +1,18 @@
+{
+  "created_at": "2026-11-05T17:06:30.535870+00:00",
+  "model_name": "all-MiniLM-L6-v2",
+  "dimension": 384,
+  "total_chunks": 146,
+  "index_type": "IndexFlatIP",
+  "document_ids": [
+    "cleaning_log",
+    "comparability_report",
+    "comparability_rules",
+    "data_dictionary",
+    "documentation_correction_log",
+    "final_validation_report",
+    "geography_audit",
+    "institution_identity_audit",
+    "nirf_methodology_reference"
+  ]
+}
